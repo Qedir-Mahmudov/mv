@@ -1,0 +1,1 @@
+linux komandasinda fayli rename etmek ucun mv komandasindan istifade olunur
